@@ -1,2 +1,12 @@
 res://Scenes/Player.tscn
 res://Scenes/Player.gd
+res://Scenes/game.tscn
+res://Scenes/tree.tscn
+res://Scenes/mob.tscn
+res://Scenes/mob.gd
+res://Scenes/gun.tscn
+res://Scenes/gun.gd
+res://Bullet.gd
+res://Scenes/bullet.tscn
+res://Scenes/bullet.gd
+res://Scenes/game.gd
